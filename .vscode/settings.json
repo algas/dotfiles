@@ -1,0 +1,11 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "\"Fira Code\", Cica",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontLigatures": true,
+    "git.autofetch": true
+}
