@@ -12,7 +12,7 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 # 2 space indentation
-[*.{html,js,css,vue,json}]
+[*.{html,js,css,vue,json,ts}]
 indent_style = space
 indent_size = 2
 
